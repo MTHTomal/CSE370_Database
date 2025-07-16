@@ -1,6 +1,4 @@
-# CSE370_Database_Project
-
-### Donation Management System
+# Donation Management System
 
 #### Project Overview:
 
