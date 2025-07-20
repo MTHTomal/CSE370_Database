@@ -6,4 +6,4 @@ The project ideas and features are listed as:
 
 - **Idea1**: Donation Management System – aims to ensure transparency in donations.
 - **Idea2**: Educational Website.
-- **Idea3**: Up coming....
+- **Idea3**: Vehicle Solution.
